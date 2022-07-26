@@ -62,7 +62,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Info.cs" />
+    <Compile Include="juegoI.cs" />
     <Compile Include="MainActivity.cs" />
+    <Compile Include="N1.cs" />
+    <Compile Include="N2.cs" />
+    <Compile Include="N3.cs" />
+    <Compile Include="N4.cs" />
+    <Compile Include="N5.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -110,6 +116,39 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Info.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\juegoI.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\preguntas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\N1.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\N2.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\N3.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\N4.xml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\N5.xml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

@@ -23,10 +23,18 @@ namespace itsco2
             SetContentView(Resource.Layout.activity_main);
 
             var btnInfo = FindViewById<Button>(Resource.Id.btnInfo);
+            var btnjuego = FindViewById<Button>(Resource.Id.btnJuego);
 
             btnInfo.Click += delegate
             {
                 Intent itn = new Intent(this, typeof(Info));
+                StartActivity(itn);
+
+
+            };
+            btnjuego.Click += delegate
+            {
+                Intent itn = new Intent(this, typeof(juegoI));
                 StartActivity(itn);
 
 
