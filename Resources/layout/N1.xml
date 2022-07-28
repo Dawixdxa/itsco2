@@ -22,7 +22,7 @@
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="21.0dp" />
         <CheckBox
-            android:text="php"
+            android:text="Un lenguaje de programacion"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox1"
@@ -30,7 +30,7 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="html"
+            android:text="Una carrera"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox2"
@@ -38,21 +38,21 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="No se"
+            android:text="Todas las anteriores"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox3"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
-            android:text="hola"
+            android:text="un área que se dedica al estudio del diseño y desarrollo de software"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox4"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <TextView
-            android:text="2: Tipos de lengiajes?"
+            android:text="2: Tipos de lenguajes?"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -76,14 +76,14 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="No se"
+            android:text="css"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox3"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
-            android:text="hola"
+            android:text="todos"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox4"
@@ -98,7 +98,7 @@
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="21.0dp" />
         <CheckBox
-            android:text="php"
+            android:text="int,varchar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox1"
@@ -106,7 +106,7 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="html"
+            android:text="bolano , varichi"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox2"
@@ -114,21 +114,21 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="No se"
+            android:text="string , fly"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox3"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
-            android:text="hola"
+            android:text="c++ , c#"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox4"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <TextView
-            android:text="4: Cual es la materia que se usa vpn?"
+            android:text="4: Cual es la materia se arma computadora"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -136,7 +136,7 @@
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="21.0dp" />
         <CheckBox
-            android:text="php"
+            android:text="sistemas operativos"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox1"
@@ -144,7 +144,7 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="html"
+            android:text="alasis de software"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox2"
@@ -152,14 +152,14 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="No se"
+            android:text="Arqitectura de maquina"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox3"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
-            android:text="hola"
+            android:text="Arquitectura de computadoras"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox4"
@@ -174,7 +174,7 @@
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="21.0dp" />
         <CheckBox
-            android:text="php"
+            android:text="if,else"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox1"
@@ -182,7 +182,7 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="html"
+            android:text="else,if"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox2"
@@ -190,18 +190,29 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="No se"
+            android:text="while"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox3"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
-            android:text="hola"
+            android:text="do while"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/checkBox4"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
+        <Button
+            android:text="Revisar Respuestas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button1"
+            android:layout_marginTop="20.0dp"
+            android:layout_marginRight="23.5dp"
+            android:layout_marginLeft="27.5dp" />
+
+
+
     </LinearLayout>
 </ScrollView>
