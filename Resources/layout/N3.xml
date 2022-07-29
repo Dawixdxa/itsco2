@@ -14,7 +14,7 @@
         android:minWidth="25px"
         android:minHeight="25px">
         <TextView
-            android:text="1: Que es Programacion?"
+            android:text="1: Aplicacion para Realisar diagramas ?"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -22,7 +22,7 @@
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="21.0dp" />
         <CheckBox
-            android:text="Un lenguaje de programacion"
+            android:text="Visual code"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx1"
@@ -30,7 +30,7 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="Una carrera"
+            android:text="Visual studio"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx2"
@@ -38,21 +38,21 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="Todas las anteriores"
+            android:text="Rational Rose"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx3"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
-            android:text="un área que se dedica al estudio del diseño y desarrollo de software"
+            android:text="NeatBeans"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx4"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <TextView
-            android:text="2: Tipos de lengajes?"
+            android:text="2:Lenguajes como Java, y otros lenguajes de programacion son algunos ejemplos de ?"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -60,7 +60,7 @@
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="21.0dp" />
         <CheckBox
-            android:text="php"
+            android:text="Lenguajes No Estructurados"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx5"
@@ -68,7 +68,7 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="html"
+            android:text="Lenguajes Orientados a Objetos"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx6"
@@ -76,21 +76,21 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="css"
+            android:text="Lenguajes Prodecimientales"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx7"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
-            android:text="todos"
+            android:text="TAD\'s"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx8"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <TextView
-            android:text="3: Variables de programacion?"
+            android:text="3: Que es un vpn?"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -98,7 +98,7 @@
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="21.0dp" />
         <CheckBox
-            android:text="int,varchar"
+            android:text="Es una red privada virtual"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx9"
@@ -106,7 +106,7 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="bolano , varichi"
+            android:text="Un nombre de redi"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx10"
@@ -114,21 +114,21 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="string , fly"
+            android:text="Una pagina segura de internet"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx11"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
-            android:text="c++ , c#"
+            android:text="todas las anteriores"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx12"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <TextView
-            android:text="4: Cual es la materia se arma computadora"
+            android:text="4: Que es el analisi y diseño de software"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -136,7 +136,7 @@
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="21.0dp" />
         <CheckBox
-            android:text="sistemas operativos"
+            android:text="Analizar el sistema para el comportamimento del software"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx13"
@@ -144,7 +144,7 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="alasis de software"
+            android:text="Analizar el estilo del software"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx14"
@@ -152,21 +152,21 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="Arqitectura de maquina"
+            android:text="Analizar el tamaño del crud"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx15"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
-            android:text="Arquitectura de computadoras"
+            android:text="Analizar el tiempo empleado para realizar el programa "
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx16"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <TextView
-            android:text="5: Para poner si , sino se usa?"
+            android:text="5: Cuantos tipos de redes existen ?"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -174,7 +174,7 @@
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="21.0dp" />
         <CheckBox
-            android:text="if,else"
+            android:text="2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx17"
@@ -182,7 +182,7 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="else,if"
+            android:text="3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx18"
@@ -190,14 +190,14 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="while"
+            android:text="4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx19"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
-            android:text="do while"
+            android:text="8"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx20"
