@@ -14,7 +14,7 @@
         android:minWidth="25px"
         android:minHeight="25px">
         <TextView
-            android:text="1: Que es Programacion?"
+            android:text="1: Donde se encuentra la parte visual en xamarin android?"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -22,7 +22,7 @@
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="21.0dp" />
         <CheckBox
-            android:text="Un lenguaje de programacion"
+            android:text="Resourse"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx1"
@@ -30,7 +30,7 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="Una carrera"
+            android:text="Layout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx2"
@@ -38,21 +38,21 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="Todas las anteriores"
+            android:text="Src"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx3"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
-            android:text="un área que se dedica al estudio del diseño y desarrollo de software"
+            android:text="VistaAndroid"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx4"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <TextView
-            android:text="2: Tipos de lengajes?"
+            android:text="2: Cual es el lenguaje usao en las claces de programascion visual?"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -60,7 +60,7 @@
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="21.0dp" />
         <CheckBox
-            android:text="php"
+            android:text="C++"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx5"
@@ -68,7 +68,7 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="html"
+            android:text="C#"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx6"
@@ -76,21 +76,21 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="css"
+            android:text="JAVASCRIPT"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx7"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
-            android:text="todos"
+            android:text="HTML"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx8"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <TextView
-            android:text="3: Variables de programacion?"
+            android:text="3: Framework que se usa controladores y rutas?"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -98,7 +98,7 @@
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="21.0dp" />
         <CheckBox
-            android:text="int,varchar"
+            android:text="Cake PHP"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx9"
@@ -106,7 +106,7 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="bolano , varichi"
+            android:text="Laravel"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx10"
@@ -114,21 +114,21 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="string , fly"
+            android:text="PHP"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx11"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
-            android:text="c++ , c#"
+            android:text="Ninguno"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx12"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <TextView
-            android:text="4: Cual es la materia se arma computadora"
+            android:text="4: Aparte de la prueba de caja Negra tambien existe "
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -136,7 +136,7 @@
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="21.0dp" />
         <CheckBox
-            android:text="sistemas operativos"
+            android:text="Caja Blanca"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx13"
@@ -144,7 +144,7 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="alasis de software"
+            android:text="Prueba de velocidad "
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx14"
@@ -152,21 +152,21 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="Arqitectura de maquina"
+            android:text="Prueba de errores"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx15"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
-            android:text="Arquitectura de computadoras"
+            android:text="Prueba de caja roja"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx16"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <TextView
-            android:text="5: Para poner si , sino se usa?"
+            android:text="5: Cual son las compuertas logicas pricipales?"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -174,7 +174,7 @@
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="21.0dp" />
         <CheckBox
-            android:text="if,else"
+            android:text="XNOR,NOT,AND"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx17"
@@ -182,7 +182,7 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="else,if"
+            android:text="NOT,OR,AND"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx18"
@@ -190,14 +190,14 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="while"
+            android:text="XNOR,NAND,NOR"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx19"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
-            android:text="do while"
+            android:text="XOR,NOT,NAND"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx20"
