@@ -14,7 +14,7 @@
         android:minWidth="25px"
         android:minHeight="25px">
         <TextView
-            android:text="1: Que es Programacion?"
+            android:text="1: Cuales son sistemas operativos?"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -22,7 +22,7 @@
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="21.0dp" />
         <CheckBox
-            android:text="Un lenguaje de programacion"
+            android:text="Windows,LInux,mac Os"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx1"
@@ -30,7 +30,7 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="Una carrera"
+            android:text="Ubuntu,Luna,BMware"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx2"
@@ -38,21 +38,21 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="Todas las anteriores"
+            android:text="VirtualBox,Oracle,Azure"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx3"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
-            android:text="un área que se dedica al estudio del diseño y desarrollo de software"
+            android:text="Todas las anteriores"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx4"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <TextView
-            android:text="2: Tipos de lengajes?"
+            android:text="2: Que es JOptionPane?"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -60,7 +60,7 @@
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="21.0dp" />
         <CheckBox
-            android:text="php"
+            android:text="LLamar base de datos"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx5"
@@ -68,7 +68,7 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="html"
+            android:text="Abrir pagina web"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx6"
@@ -76,21 +76,21 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="css"
+            android:text="Mostrar ventanas emergentes"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx7"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
-            android:text="todos"
+            android:text="Importar imagenes"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx8"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <TextView
-            android:text="3: Variables de programacion?"
+            android:text="3: Como llamar una tabla?"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -98,7 +98,7 @@
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="21.0dp" />
         <CheckBox
-            android:text="int,varchar"
+            android:text="SELECT * FROM NOMBRE_TABLA"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx9"
@@ -106,7 +106,7 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="bolano , varichi"
+            android:text="SELECTO * FROM NOMBRE_TABLA "
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx10"
@@ -114,21 +114,21 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="string , fly"
+            android:text="SELEC * FRON NOMBRE_TABLA "
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx11"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
-            android:text="c++ , c#"
+            android:text="FROM * SELECT NOMBRE_TABLA"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx12"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <TextView
-            android:text="4: Cual es la materia se arma computadora"
+            android:text="4: Con que se instala un sistema operativo?"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -136,7 +136,7 @@
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="21.0dp" />
         <CheckBox
-            android:text="sistemas operativos"
+            android:text="Flash"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx13"
@@ -144,7 +144,7 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="alasis de software"
+            android:text="Flash boteada"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx14"
@@ -152,21 +152,21 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="Arqitectura de maquina"
+            android:text="iso"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx15"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
-            android:text="Arquitectura de computadoras"
+            android:text="Por la bios"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx16"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <TextView
-            android:text="5: Para poner si , sino se usa?"
+            android:text="5: Cual es la diferencia de una clace y un objeto?"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -174,7 +174,7 @@
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="21.0dp" />
         <CheckBox
-            android:text="if,else"
+            android:text="Consiste en tener un método con el mismo nombre pero diferentes parámetros."
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx17"
@@ -182,7 +182,7 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="else,if"
+            android:text="Podemos definirlo como la capacidad que tienen los objetos de comportarse de múltiples formas recurriendo a la herencia, en si consiste en hacer referencia a objetos de una clase que puede tomar comportamientos de objetos que son descendientes de esta."
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx18"
@@ -190,14 +190,14 @@
             android:layout_marginTop="14.5dp" />
 
         <CheckBox
-            android:text="while"
+            android:text="Es la forma de proteger u ocultar las propiedades de un objetos, estableciendo los permisos y niveles de visibilidad, existen tres niveles de acceso para el encapsulamiento"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx19"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
-            android:text="do while"
+            android:text="Podemos ver la clase con un modelo o plantilla y a un objeto es el instanciamiento de esa plantilla."
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/cbx20"
