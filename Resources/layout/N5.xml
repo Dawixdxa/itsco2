@@ -1,14 +1,218 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
-    <Button
-        android:text="Button5"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:minWidth="25px"
-        android:minHeight="25px"
-        android:id="@+id/button1" />
 
-</LinearLayout>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView1">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:minWidth="25px"
+        android:minHeight="25px">
+        <TextView
+            android:text="1: Que es Programacion?"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView1"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="21.0dp" />
+        <CheckBox
+            android:text="Un lenguaje de programacion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cbx1"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="14.5dp" />
+
+        <CheckBox
+            android:text="Una carrera"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cbx2"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="14.5dp" />
+
+        <CheckBox
+            android:text="Todas las anteriores"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cbx3"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="14.5dp" />
+        <CheckBox
+            android:text="un área que se dedica al estudio del diseño y desarrollo de software"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cbx4"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="14.5dp" />
+        <TextView
+            android:text="2: Tipos de lengajes?"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView1"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="21.0dp" />
+        <CheckBox
+            android:text="php"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cbx5"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="14.5dp" />
+
+        <CheckBox
+            android:text="html"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cbx6"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="14.5dp" />
+
+        <CheckBox
+            android:text="css"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cbx7"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="14.5dp" />
+        <CheckBox
+            android:text="todos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cbx8"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="14.5dp" />
+        <TextView
+            android:text="3: Variables de programacion?"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView1"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="21.0dp" />
+        <CheckBox
+            android:text="int,varchar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cbx9"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="14.5dp" />
+
+        <CheckBox
+            android:text="bolano , varichi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cbx10"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="14.5dp" />
+
+        <CheckBox
+            android:text="string , fly"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cbx11"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="14.5dp" />
+        <CheckBox
+            android:text="c++ , c#"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cbx12"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="14.5dp" />
+        <TextView
+            android:text="4: Cual es la materia se arma computadora"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView1"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="21.0dp" />
+        <CheckBox
+            android:text="sistemas operativos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cbx13"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="14.5dp" />
+
+        <CheckBox
+            android:text="alasis de software"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cbx14"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="14.5dp" />
+
+        <CheckBox
+            android:text="Arqitectura de maquina"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cbx15"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="14.5dp" />
+        <CheckBox
+            android:text="Arquitectura de computadoras"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cbx16"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="14.5dp" />
+        <TextView
+            android:text="5: Para poner si , sino se usa?"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView1"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="21.0dp" />
+        <CheckBox
+            android:text="if,else"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cbx17"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="14.5dp" />
+
+        <CheckBox
+            android:text="else,if"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cbx18"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="14.5dp" />
+
+        <CheckBox
+            android:text="while"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cbx19"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="14.5dp" />
+        <CheckBox
+            android:text="do while"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cbx20"
+            android:layout_marginLeft="29.5dp"
+            android:layout_marginTop="14.5dp" />
+        <Button
+            android:text="Revisar Respuestas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnRevisar1"
+            android:layout_marginTop="20.0dp"
+            android:layout_marginRight="23.5dp"
+            android:layout_marginLeft="27.5dp" />
+
+
+
+    </LinearLayout>
+</ScrollView>

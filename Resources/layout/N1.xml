@@ -25,7 +25,7 @@
             android:text="Un lenguaje de programacion"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/checkBox1"
+            android:id="@+id/cbx1"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
 
@@ -33,7 +33,7 @@
             android:text="Una carrera"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/checkBox2"
+            android:id="@+id/cbx2"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
 
@@ -41,18 +41,18 @@
             android:text="Todas las anteriores"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/checkBox3"
+            android:id="@+id/cbx3"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
             android:text="un área que se dedica al estudio del diseño y desarrollo de software"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/checkBox4"
+            android:id="@+id/cbx4"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <TextView
-            android:text="2: Tipos de lenguajes?"
+            android:text="2: Tipos de lengajes?"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -63,7 +63,7 @@
             android:text="php"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/checkBox1"
+            android:id="@+id/cbx5"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
 
@@ -71,7 +71,7 @@
             android:text="html"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/checkBox2"
+            android:id="@+id/cbx6"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
 
@@ -79,14 +79,14 @@
             android:text="css"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/checkBox3"
+            android:id="@+id/cbx7"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
             android:text="todos"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/checkBox4"
+            android:id="@+id/cbx8"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <TextView
@@ -101,7 +101,7 @@
             android:text="int,varchar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/checkBox1"
+            android:id="@+id/cbx9"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
 
@@ -109,7 +109,7 @@
             android:text="bolano , varichi"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/checkBox2"
+            android:id="@+id/cbx10"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
 
@@ -117,14 +117,14 @@
             android:text="string , fly"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/checkBox3"
+            android:id="@+id/cbx11"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
             android:text="c++ , c#"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/checkBox4"
+            android:id="@+id/cbx12"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <TextView
@@ -139,7 +139,7 @@
             android:text="sistemas operativos"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/checkBox1"
+            android:id="@+id/cbx13"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
 
@@ -147,7 +147,7 @@
             android:text="alasis de software"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/checkBox2"
+            android:id="@+id/cbx14"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
 
@@ -155,14 +155,14 @@
             android:text="Arqitectura de maquina"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/checkBox3"
+            android:id="@+id/cbx15"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
             android:text="Arquitectura de computadoras"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/checkBox4"
+            android:id="@+id/cbx16"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <TextView
@@ -177,7 +177,7 @@
             android:text="if,else"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/checkBox1"
+            android:id="@+id/cbx17"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
 
@@ -185,7 +185,7 @@
             android:text="else,if"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/checkBox2"
+            android:id="@+id/cbx18"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
 
@@ -193,21 +193,21 @@
             android:text="while"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/checkBox3"
+            android:id="@+id/cbx19"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <CheckBox
             android:text="do while"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/checkBox4"
+            android:id="@+id/cbx20"
             android:layout_marginLeft="29.5dp"
             android:layout_marginTop="14.5dp" />
         <Button
             android:text="Revisar Respuestas"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/button1"
+            android:id="@+id/btnRevisar1"
             android:layout_marginTop="20.0dp"
             android:layout_marginRight="23.5dp"
             android:layout_marginLeft="27.5dp" />
